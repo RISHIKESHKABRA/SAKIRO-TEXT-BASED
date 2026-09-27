@@ -1,0 +1,9 @@
+sekiro-cpp-cli/
+├── .gitignore
+├── README.md
+├── LICENSE
+├── include/
+│   └── SekiroGame.hpp
+└── src/
+    ├── main.cpp
+    └── SekiroGame.cpp
