@@ -1,0 +1,18 @@
+===============================================
+         SEKIRO: SHADOWS DIE TWICE             
+             Console Edition                   
+===============================================
+
+Wolf (Sekiro) HP      [####################] (100/100)
+Wolf (Sekiro) POSTURE [--------------------] (0/100)
+Healing Gourds: 3 | Spirit Emblems: 10
+
+General Tenzen Yamauchi HP      [####################] (160/160)
+General Tenzen Yamauchi POSTURE [--------------------] (0/120)
+-----------------------------------------------
+Actions:
+1. Katana Attack
+2. Deflect / Parry
+3. Prosthetic: Loaded Shuriken (2 Emblems)
+4. Healing Gourd
+Select action (1-4):
